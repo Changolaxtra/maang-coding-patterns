@@ -1,5 +1,5 @@
 # maang-coding-patterns
-This repository has the purpose to have implementation examples of MAANG Coding Patterns, trying to make them easily extendable to different functionalities by providing functional interfaces.
+This repository has the purpose to have Java implementation examples of MAANG Coding Patterns, trying to make them easily extendable to different functionalities by providing functional interfaces.
 
 - MAANG -> Meta, Amazon, Apple, Netflix, and Google
 - MAANG -> Mandatory Algorithms for the Next Generation (I like this one :sunglasses:)
