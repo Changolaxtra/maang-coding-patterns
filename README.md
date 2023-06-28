@@ -26,3 +26,9 @@ The following list was extracted from [DesignGurus.com - Linkedin post](https://
 - [ ] Graph - Bipartite Check
 - [ ] Bitwise XOR
 - [ ] Sliding Window - Optimal
+
+To add new implementation:
+
+1. Copy template directory and rename it.
+2. Modify /pom.xml with proper artifact name.
+3. Update parent pom.xml to include new module.
