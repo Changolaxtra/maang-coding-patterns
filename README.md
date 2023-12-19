@@ -9,8 +9,8 @@ easily extendable to different functionalities by providing functional interface
 The following list was extracted
 from [DesignGurus.com - Linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:7079035811802832896?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7079035811802832896%29)
 
-- [X] Sliding Window -> [Code](sliding-window/src/main/java/com/dan/rojas/maang/sliding/SlidingWindowMaxSubArray.java)
-- [ ] Two Pointers
+- [X] Sliding Window [Code](sliding-window/src/main/java/com/dan/rojas/maang/sliding/SlidingWindowMaxSubArray.java)
+- [X] Two Pointers [Code](two-pointer/src/main/java/com/dan/rojas/maang/twopointer/TwoPointerPairSum.java)
 - [ ] Binary Search
 - [ ] Fast and Slow Pointers
 - [ ] Merge Intervals

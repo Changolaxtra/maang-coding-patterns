@@ -11,6 +11,7 @@
     <modules>
         <module>template</module>
         <module>sliding-window</module>
+        <module>two-pointer</module>
     </modules>
 
 </project>

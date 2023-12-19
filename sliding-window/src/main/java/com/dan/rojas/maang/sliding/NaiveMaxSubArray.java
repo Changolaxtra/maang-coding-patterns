@@ -1,6 +1,6 @@
 package com.dan.rojas.maang.sliding;
 
-public class BruteForceMaxSubArray implements MaxSubArray {
+public class NaiveMaxSubArray implements MaxSubArray {
 
     @Override
     public int getMaxSum(int[] array, int subArraySize) {
