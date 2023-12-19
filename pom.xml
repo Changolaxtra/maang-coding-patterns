@@ -10,6 +10,7 @@
 
     <modules>
         <module>template</module>
+        <module>sliding-window</module>
     </modules>
 
 </project>
