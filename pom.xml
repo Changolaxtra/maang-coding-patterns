@@ -12,6 +12,7 @@
         <module>template</module>
         <module>sliding-window</module>
         <module>two-pointer</module>
+        <module>binary-search</module>
     </modules>
 
 </project>
