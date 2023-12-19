@@ -20,8 +20,8 @@ public class SlidingWindowMaxSubArray implements MaxSubArray {
 
         int windowSum = maxSum;
         for (int i = subArraySize; i < arraySize; i++) {
-            int currentElement = array[i];
-            int firstElementOfPreviousWindow = array[i - subArraySize];
+            final int currentElement = array[i];
+            final int firstElementOfPreviousWindow = array[i - subArraySize];
             windowSum += currentElement - firstElementOfPreviousWindow;
             maxSum = Math.max(maxSum, windowSum);
         }
